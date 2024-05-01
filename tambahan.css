@@ -1,0 +1,17 @@
+.container-body {
+  background-color: white;
+}
+
+.container-footer {
+  background-color: #34282C;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+}
+
+.p-footer {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-family: Times;
+}
